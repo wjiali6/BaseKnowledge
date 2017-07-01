@@ -1,3 +1,3 @@
 # BaseKnowledge
-Everything  I learned from github
-Initially intended for write some information which I learned from github.
+Everything   learned from github
+Initially intended for some writings and  information  from github and internet.
